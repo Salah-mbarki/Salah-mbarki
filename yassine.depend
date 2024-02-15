@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1707846221 source:c:\users\gie\desktop\programmation c\yassine\main.c
+	<stdio.h>
+	<stdlib.h>
+
